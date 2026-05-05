@@ -1,9 +1,9 @@
-# Week {Number}: {Project Title}
+# Week {06}: {Asynchronous JavaScript}
 
 ## Author
 - **Name:** Your Full Name
-- **GitHub:** [@MaisoriKitayama](https://github.com/MaisoriKitayama)
-- **Date:** Month Day, Year
+- **GitHub:** [@xmacua])
+- **Date:** March 22, 2026
 
 ## Project Description
 Brief description of what you built and why.
@@ -12,7 +12,7 @@ Brief description of what you built and why.
 - HTML5
 - CSS3
 - JavaScript
-- (list all technologies)
+- 
 
 ## Features
 - Feature 1
@@ -26,13 +26,10 @@ Brief description of what you built and why.
    Run `npm install` then `npm start`
 
 ## Lessons Learned
-What did you learn while building this project?
+
 
 ## Challenges Faced
-What problems did you encounter and how did you solve them?
 
-## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
 
 ## Live Demo (if deployed)
 [View Live Demo](https://your-deployed-url.com)
