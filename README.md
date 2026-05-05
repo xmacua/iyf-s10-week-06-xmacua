@@ -1,8 +1,8 @@
 # Week 06: Weather Dashboard
 
 ## Author
-- **Name:** Maisori Kitayama
-- **GitHub:** [@MaisoriKitayama](https://github.com/MaisoriKitayama)
+- **Name:** Macua Vivian
+- **GitHub:** [@xmacua]()
 - **Date:** May 5, 2026
 
 ## Project Description
@@ -38,5 +38,5 @@ Managing API error responses and keeping the UI responsive were the biggest chal
 ## Screenshots (optional)
 ![Weather Dashboard screenshot](path/to/screenshot.png)
 
-## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+## Live Demo
+()
