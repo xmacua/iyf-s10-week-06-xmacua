@@ -2,7 +2,7 @@
 
 ## Author
 - **Name:** Macua Vivian
-- **GitHub:** [@xmacua](https://github.com/xmacua/xmacua)
+- **GitHub:** [@xmacua](https://github.com/xmacua)
 - **Date:** May 5, 2026
 
 ## Project Description
