@@ -2,7 +2,7 @@
 
 ## Author
 - **Name:** Macua Vivian
-- **GitHub:** [@xmacua]()
+- **GitHub:** [@xmacua](https://github.com/xmacua/xmacua)
 - **Date:** May 5, 2026
 
 ## Project Description
@@ -36,7 +36,8 @@ I learned how to build a weather app by integrating a third-party API and handli
 Managing API error responses and keeping the UI responsive were the biggest challenges. I resolved these by adding explicit error handling, a loading state, and a clean fallback for empty search history.
 
 ## Screenshots (optional)
-![Weather Dashboard screenshot](path/to/screenshot.png)
+![Weather Dashboard screenshot](<img width="720" height="675" alt="image" src="https://github.com/user-attachments/assets/b7312663-0274-4277-ba94-682e447d1e30" />
+)
 
 ## Live Demo
-()
+(https://github.com/xmacua/iyf-s10-week-06-xmacua.git)
